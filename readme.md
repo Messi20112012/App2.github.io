@@ -17,5 +17,5 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-![App Screenshot](./assets/github/Capture d'écran 2024-01-12 094309.png)
+![App Screenshot](./assets/github/capture.png)
 
